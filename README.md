@@ -28,6 +28,8 @@ Swift 5.2
 
 - [About Swift](https://docs.swift.org/swift-book/)
 
+- [SwiftUI Examples](https://github.com/jorgemht/SwiftUI)
+
 ## Clean and Rebuild
 
 If you see build issues when pulling updates from the repo, try cleaning and rebuilding the solution.
