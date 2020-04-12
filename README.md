@@ -2,9 +2,9 @@
 Swift 5.2
 
 
-- [Numbers and Basic Values](https://developer.apple.com/documentation/swift/swift_standard_library/numbers_and_basic_values) - [Example](CollectionsPlayground.playground)
+- [Numbers and Basic Values](https://developer.apple.com/documentation/swift/swift_standard_library/numbers_and_basic_values) - [Example](https://github.com/jorgemht/Swift/blob/master/Examples/VariablesConstants.playground/Contents.swift)
 
-- [Strings and Text](https://developer.apple.com/documentation/swift/swift_standard_library/strings_and_text) - [Example](CollectionsPlayground.playground)
+- [Strings and Text](https://developer.apple.com/documentation/swift/swift_standard_library/strings_and_text) - [Example](https://github.com/jorgemht/Swift/blob/master/Examples/VariablesConstants.playground/Contents.swift)
 
 #### Collection Types in swift
 
@@ -12,7 +12,7 @@ Swift 5.2
     Dictionaries → Unordered collections of key-value pairs/associations
     Sets → Unordered collections of unique values
 
-- [Collections](https://developer.apple.com/documentation/swift/swift_standard_library/collections) - [Example](CollectionsPlayground.playground)
+- [Collections](https://developer.apple.com/documentation/swift/swift_standard_library/collections) - [Example](https://github.com/jorgemht/Swift/blob/master/Examples/CollectionsPlayground.playground/Contents.swift)
 
 ## Links
 
