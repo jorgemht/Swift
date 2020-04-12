@@ -6,7 +6,7 @@ Swift 5.2
 
 - [Strings and Text](https://developer.apple.com/documentation/swift/swift_standard_library/strings_and_text) - [Example](https://github.com/jorgemht/Swift/blob/master/Examples/VariablesConstants.playground/Contents.swift)
 
-- [Swift Operators(https://developer.apple.com/documentation/swift/swift_standard_library/numbers_and_basic_values) - [Example](https://github.com/jorgemht/Swift/blob/master/Examples/Operators.playground/Contents.swift)
+- [Swift Operators](https://developer.apple.com/documentation/swift/swift_standard_library/numbers_and_basic_values) - [Example](https://github.com/jorgemht/Swift/blob/master/Examples/Operators.playground/Contents.swift)
 
 #### Collection Types in swift
 
