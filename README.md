@@ -6,6 +6,12 @@ Swift 5.2
 
 - [Strings and Text](https://developer.apple.com/documentation/swift/swift_standard_library/strings_and_text) - [Example](CollectionsPlayground.playground)
 
+#### Collection Types in swift
+
+    Arrays → Ordered collections of values
+    Dictionaries → Unordered collections of key-value pairs/associations
+    Sets → Unordered collections of unique values
+
 - [Collections](https://developer.apple.com/documentation/swift/swift_standard_library/collections) - [Example](CollectionsPlayground.playground)
 
 ## Links
