@@ -30,7 +30,7 @@ Swift 5.2
 
 - [SwiftUI Examples](https://github.com/jorgemht/SwiftUI)
 
-- [Augmented Reality] (https://developer.apple.com/augmented-reality/) - [Example](https://github.com/jorgemht/Swift/tree/master/Examples/ExampleAR) - [Models](https://developer.apple.com/augmented-reality/quick-look/)  
+- [Augmented Reality](https://developer.apple.com/augmented-reality/) - [Example](https://github.com/jorgemht/Swift/tree/master/Examples/ExampleAR) - [Models](https://developer.apple.com/augmented-reality/quick-look/)  
 
 ## Clean and Rebuild
 
