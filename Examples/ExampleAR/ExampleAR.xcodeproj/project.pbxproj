@@ -1,0 +1,383 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8E4BBAE32444A4C1003466A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4BBAE22444A4C1003466A8 /* AppDelegate.swift */; };
+		8E4BBAE52444A4C1003466A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4BBAE42444A4C1003466A8 /* ViewController.swift */; };
+		8E4BBAE72444A4C1003466A8 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 8E4BBAE62444A4C1003466A8 /* Experience.rcproject */; };
+		8E4BBAEA2444A4C1003466A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBAE82444A4C1003466A8 /* Main.storyboard */; };
+		8E4BBAEC2444A4C3003466A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBAEB2444A4C3003466A8 /* Assets.xcassets */; };
+		8E4BBAEF2444A4C3003466A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBAED2444A4C3003466A8 /* LaunchScreen.storyboard */; };
+		8E4BBB202444B3FE003466A8 /* toy_car.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB162444B3FE003466A8 /* toy_car.usdz */; };
+		8E4BBB212444B3FE003466A8 /* fender_stratocaster.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB172444B3FE003466A8 /* fender_stratocaster.usdz */; };
+		8E4BBB222444B3FE003466A8 /* gramophone.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB182444B3FE003466A8 /* gramophone.usdz */; };
+		8E4BBB232444B3FE003466A8 /* flower_tulip.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB192444B3FE003466A8 /* flower_tulip.usdz */; };
+		8E4BBB242444B3FE003466A8 /* toy_biplane.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB1A2444B3FE003466A8 /* toy_biplane.usdz */; };
+		8E4BBB252444B3FE003466A8 /* trowel.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB1B2444B3FE003466A8 /* trowel.usdz */; };
+		8E4BBB262444B3FE003466A8 /* toy_robot_vintage.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB1C2444B3FE003466A8 /* toy_robot_vintage.usdz */; };
+		8E4BBB272444B3FE003466A8 /* tv_retro.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB1D2444B3FE003466A8 /* tv_retro.usdz */; };
+		8E4BBB282444B3FE003466A8 /* cup_saucer_set.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB1E2444B3FE003466A8 /* cup_saucer_set.usdz */; };
+		8E4BBB292444B3FE003466A8 /* toy_drummer.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8E4BBB1F2444B3FE003466A8 /* toy_drummer.usdz */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8E4BBADF2444A4C1003466A8 /* ExampleAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExampleAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E4BBAE22444A4C1003466A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8E4BBAE42444A4C1003466A8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8E4BBAE62444A4C1003466A8 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
+		8E4BBAE92444A4C1003466A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8E4BBAEB2444A4C3003466A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8E4BBAEE2444A4C3003466A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8E4BBAF02444A4C3003466A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E4BBB162444B3FE003466A8 /* toy_car.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_car.usdz; sourceTree = "<group>"; };
+		8E4BBB172444B3FE003466A8 /* fender_stratocaster.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = fender_stratocaster.usdz; sourceTree = "<group>"; };
+		8E4BBB182444B3FE003466A8 /* gramophone.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = gramophone.usdz; sourceTree = "<group>"; };
+		8E4BBB192444B3FE003466A8 /* flower_tulip.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = flower_tulip.usdz; sourceTree = "<group>"; };
+		8E4BBB1A2444B3FE003466A8 /* toy_biplane.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_biplane.usdz; sourceTree = "<group>"; };
+		8E4BBB1B2444B3FE003466A8 /* trowel.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = trowel.usdz; sourceTree = "<group>"; };
+		8E4BBB1C2444B3FE003466A8 /* toy_robot_vintage.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_robot_vintage.usdz; sourceTree = "<group>"; };
+		8E4BBB1D2444B3FE003466A8 /* tv_retro.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = tv_retro.usdz; sourceTree = "<group>"; };
+		8E4BBB1E2444B3FE003466A8 /* cup_saucer_set.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = cup_saucer_set.usdz; sourceTree = "<group>"; };
+		8E4BBB1F2444B3FE003466A8 /* toy_drummer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_drummer.usdz; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8E4BBADC2444A4C1003466A8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8E4BBAD62444A4C1003466A8 = {
+			isa = PBXGroup;
+			children = (
+				8E4BBAE12444A4C1003466A8 /* ExampleAR */,
+				8E4BBAE02444A4C1003466A8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8E4BBAE02444A4C1003466A8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8E4BBADF2444A4C1003466A8 /* ExampleAR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8E4BBAE12444A4C1003466A8 /* ExampleAR */ = {
+			isa = PBXGroup;
+			children = (
+				8E4BBB1E2444B3FE003466A8 /* cup_saucer_set.usdz */,
+				8E4BBB172444B3FE003466A8 /* fender_stratocaster.usdz */,
+				8E4BBB192444B3FE003466A8 /* flower_tulip.usdz */,
+				8E4BBB182444B3FE003466A8 /* gramophone.usdz */,
+				8E4BBB1A2444B3FE003466A8 /* toy_biplane.usdz */,
+				8E4BBB162444B3FE003466A8 /* toy_car.usdz */,
+				8E4BBB1F2444B3FE003466A8 /* toy_drummer.usdz */,
+				8E4BBB1C2444B3FE003466A8 /* toy_robot_vintage.usdz */,
+				8E4BBB1B2444B3FE003466A8 /* trowel.usdz */,
+				8E4BBB1D2444B3FE003466A8 /* tv_retro.usdz */,
+				8E4BBAE22444A4C1003466A8 /* AppDelegate.swift */,
+				8E4BBAE42444A4C1003466A8 /* ViewController.swift */,
+				8E4BBAE62444A4C1003466A8 /* Experience.rcproject */,
+				8E4BBAE82444A4C1003466A8 /* Main.storyboard */,
+				8E4BBAEB2444A4C3003466A8 /* Assets.xcassets */,
+				8E4BBAED2444A4C3003466A8 /* LaunchScreen.storyboard */,
+				8E4BBAF02444A4C3003466A8 /* Info.plist */,
+			);
+			path = ExampleAR;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8E4BBADE2444A4C1003466A8 /* ExampleAR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8E4BBAF32444A4C3003466A8 /* Build configuration list for PBXNativeTarget "ExampleAR" */;
+			buildPhases = (
+				8E4BBADB2444A4C1003466A8 /* Sources */,
+				8E4BBADC2444A4C1003466A8 /* Frameworks */,
+				8E4BBADD2444A4C1003466A8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ExampleAR;
+			productName = ExampleAR;
+			productReference = 8E4BBADF2444A4C1003466A8 /* ExampleAR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8E4BBAD72444A4C1003466A8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1140;
+				LastUpgradeCheck = 1140;
+				ORGANIZATIONNAME = jorgemht;
+				TargetAttributes = {
+					8E4BBADE2444A4C1003466A8 = {
+						CreatedOnToolsVersion = 11.4;
+					};
+				};
+			};
+			buildConfigurationList = 8E4BBADA2444A4C1003466A8 /* Build configuration list for PBXProject "ExampleAR" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8E4BBAD62444A4C1003466A8;
+			productRefGroup = 8E4BBAE02444A4C1003466A8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8E4BBADE2444A4C1003466A8 /* ExampleAR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8E4BBADD2444A4C1003466A8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E4BBAEF2444A4C3003466A8 /* LaunchScreen.storyboard in Resources */,
+				8E4BBB222444B3FE003466A8 /* gramophone.usdz in Resources */,
+				8E4BBB242444B3FE003466A8 /* toy_biplane.usdz in Resources */,
+				8E4BBB232444B3FE003466A8 /* flower_tulip.usdz in Resources */,
+				8E4BBB272444B3FE003466A8 /* tv_retro.usdz in Resources */,
+				8E4BBB292444B3FE003466A8 /* toy_drummer.usdz in Resources */,
+				8E4BBB212444B3FE003466A8 /* fender_stratocaster.usdz in Resources */,
+				8E4BBB202444B3FE003466A8 /* toy_car.usdz in Resources */,
+				8E4BBB262444B3FE003466A8 /* toy_robot_vintage.usdz in Resources */,
+				8E4BBB282444B3FE003466A8 /* cup_saucer_set.usdz in Resources */,
+				8E4BBAEC2444A4C3003466A8 /* Assets.xcassets in Resources */,
+				8E4BBB252444B3FE003466A8 /* trowel.usdz in Resources */,
+				8E4BBAEA2444A4C1003466A8 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8E4BBADB2444A4C1003466A8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E4BBAE52444A4C1003466A8 /* ViewController.swift in Sources */,
+				8E4BBAE32444A4C1003466A8 /* AppDelegate.swift in Sources */,
+				8E4BBAE72444A4C1003466A8 /* Experience.rcproject in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8E4BBAE82444A4C1003466A8 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8E4BBAE92444A4C1003466A8 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8E4BBAED2444A4C3003466A8 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8E4BBAEE2444A4C3003466A8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8E4BBAF12444A4C3003466A8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8E4BBAF22444A4C3003466A8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8E4BBAF42444A4C3003466A8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4G33M4LB85;
+				INFOPLIST_FILE = ExampleAR/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jorgemht.ExampleAR;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8E4BBAF52444A4C3003466A8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4G33M4LB85;
+				INFOPLIST_FILE = ExampleAR/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jorgemht.ExampleAR;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8E4BBADA2444A4C1003466A8 /* Build configuration list for PBXProject "ExampleAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E4BBAF12444A4C3003466A8 /* Debug */,
+				8E4BBAF22444A4C3003466A8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8E4BBAF32444A4C3003466A8 /* Build configuration list for PBXNativeTarget "ExampleAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E4BBAF42444A4C3003466A8 /* Debug */,
+				8E4BBAF52444A4C3003466A8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8E4BBAD72444A4C1003466A8 /* Project object */;
+}
