@@ -16,11 +16,13 @@
 
 ## Links
 
+- [Swift Tips](hhttps://github.com/jorgemhtdev/Swift/)
+
 - [Develop](https://developer.apple.com/develop/)
 
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
 
-- [Xcode 11](https://developer.apple.com/xcode/)
+- [Xcode](https://developer.apple.com/xcode/)
 
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 
