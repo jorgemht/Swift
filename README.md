@@ -16,7 +16,7 @@
 
 ## Links
 
-- [Swift Tips](hhttps://github.com/jorgemhtdev/Swift/)
+- [Swift Tips](https://github.com/jorgemhtdev/Swift/)
 
 - [Develop](https://developer.apple.com/develop/)
 
