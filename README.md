@@ -1,6 +1,4 @@
-# Swift
-Swift 5.2
-
+# Swift Playgrounds
 
 - [Numbers and Basic Values](https://developer.apple.com/documentation/swift/swift_standard_library/numbers_and_basic_values) - [Example](https://github.com/jorgemht/Swift/blob/master/Examples/VariablesConstants.playground/Contents.swift)
 
